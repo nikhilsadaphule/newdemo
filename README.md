@@ -1,2 +1,2 @@
 # newdemo
-Auther Nikhil S.
+Author Nikhil S.
